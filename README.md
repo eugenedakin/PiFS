@@ -1,7 +1,7 @@
 # PiFS
 Raspberry Pi Functionality Suite - Xojo
 
-The Raspberry Pi Functionality Suite is a collection of Raspberry Pi OS (Debian) specific functionality that is not readily available in a free format. It is an open source collaboration that bringsto users all of the specialized Raspberry Pi functionality that is not included with Xojo/Real Studio itself. 
+The Raspberry Pi Functionality Suite is a collection of Raspberry Pi OS (Debian) specific functionality that is not readily available in a free format. It is an open source collaboration that brings users all of the specialized Raspberry Pi functionality that is not included with Xojo/Real Studio itself. 
 
 Notes
 This code was originally written by Eugene Dakin for Xojo. 
