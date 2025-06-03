@@ -42,3 +42,18 @@ Version 1.2 (2 June 2025)
 - added CLOCK_MONOTONIC constant
 - added TFD_CLOEXEC consttant
 - added TFD_NONBLOCK constant
+
+Version 1.3 (3 June 2025)
+- added clock_gettime method
+- added usleep method
+- added nanosleep method
+- added CLOCK_REALTIME constant
+- added CLOCK_PROCESS_CPUTIME_ID constant
+- added CLOCK_THREAD_CPUTIME_ID constant
+- added TimeSpec structure 
+Version 1.2 (2 June 2025)
+- added Timerfd_Create method
+- added Timerfd_SetTime method
+- added CLOCK_MONOTONIC constant
+- added TFD_CLOEXEC consttant
+- added TFD_NONBLOCK constant
