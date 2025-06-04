@@ -50,10 +50,17 @@ Version 1.3 (3 June 2025)
 - added CLOCK_REALTIME constant
 - added CLOCK_PROCESS_CPUTIME_ID constant
 - added CLOCK_THREAD_CPUTIME_ID constant
-- added TimeSpec structure 
-Version 1.2 (2 June 2025)
-- added Timerfd_Create method
-- added Timerfd_SetTime method
-- added CLOCK_MONOTONIC constant
-- added TFD_CLOEXEC consttant
-- added TFD_NONBLOCK constant
+- added TimeSpec structure
+
+Version 1.4 (4 June 2025)
+- added Timer Methods in the PiTimer Class 
+- added Elapsed Microseconds Timer Method
+- added Elapsed Milliseconds Timer Method
+- added GetCurrentTime Timer Method
+- added IsRunning Timer Method
+- added Reset Timer method
+- added SleepNanoseconds Timer Method
+- added Start Timer method
+- added Stop Timer method
+- added NanoSleep Declare
+- added uSleep (microsleep) Declare
