@@ -64,3 +64,13 @@ Version 1.4 (4 June 2025)
 - added Stop Timer method
 - added NanoSleep Declare
 - added uSleep (microsleep) Declare
+
+Version 1.5 (6 June 2025)
+- added TimeSpec structure 
+- added thread methods 
+- added pthread_create Declare
+- added pthread_join Declare
+- added pthread_detach Declare
+- added pthread_self Declare
+- added pthread_exit Declare
+- added sleep declare
