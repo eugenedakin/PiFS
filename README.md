@@ -74,3 +74,13 @@ Version 1.5 (6 June 2025)
 - added pthread_self Declare
 - added pthread_exit Declare
 - added sleep declare
+
+Version 1.6 (7 June 2025)
+- added gtk_application_new Declare
+- added gtk_application_window_new Declare
+- added gtk_widget_show_all Declare
+- added gtk_window_set_default_size Declare
+- added gtk_window_set_title Declare
+- added g_object_unref Declare
+- added g_signal_connect_data Declare
+- added printf declare
