@@ -84,3 +84,28 @@ Version 1.6 (7 June 2025)
 - added g_object_unref Declare
 - added g_signal_connect_data Declare
 - added printf declare
+
+Version 1.7 (8 June 2025)
+- added gtk_widget_add_events Declare
+- added GDK_BUTTON_PRESS_MASK Constant
+- added gtk_widget_destroy Declare
+- added g_application_run Declare
+- added GTK_MESSAGE_INFO Constant
+- added GTK_BUTTONS_OK Constant
+- added GTK_DIALOG_MODAL Constant
+- corrected issue in g_signal_connect_data Declare
+- added gtk_widget_get_toplevel Declare
+- added GTK_DIALOG_DESTROY_WITH_PARENT Constant
+- added GTK_DIALOG_USE_HEADER_BAR Constant
+- added GTK_MESSAGE_QUESTION Constant
+- added GTK_BUTTONS_OK_CANCEL Constant
+- added GTK_RESPONSE_OK Constant
+- added GTK_RESPONSE_CANCEL Constant
+- added gtk_dialog_new_with_buttons Declare
+- added gtk_container_add Declare
+- added gtk_window_set_modal Declare
+- added RESPONSE_OK Constant
+- added RESPONSE_CANCEL Constant
+- added gtk_dialog_add_button Declare
+- added gtk_dialog_get_content_area Declare
+- added gtk_label_new Declare
