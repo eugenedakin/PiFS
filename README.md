@@ -109,3 +109,29 @@ Version 1.7 (8 June 2025)
 - added gtk_dialog_add_button Declare
 - added gtk_dialog_get_content_area Declare
 - added gtk_label_new Declare
+
+Version 1.8 (9 June 2025)
+- added gtk_widget_get_window Declare
+- added gdk_cursor_new_from_name Declare
+- added gdk_window_set_cursor Declare
+- added gtk_widget_get_display Declare
+- added gtk_window_get_window Declare
+- added gtk_menu_bar_new Declare
+- added gtk_menu_new Declare
+- added gtk_menu_item_new_with_label Declare
+- added gtk_menu_item_set_submenu Declare
+- added gtk_bin_get_child Declare
+- added gtk_widget_get_parent Declare
+- added gtk_widget_get_name Declare
+- added gtk_widget_get_ancestor Declare
+- added gtk_box_pack_start Declare
+- added gtk_widget_get_parent_window
+- added gtk_widget_get_allocation Declare
+- added gtk_window_get_titlebar Declare
+- added gtk_window_list_toplevels Declare
+- added g_list_nth_data Declare
+- added gtk_widget_get_visible Declare
+- added gtk_widget_realize Declare
+- added gtk_menu_shell_append Declare
+- added gtk_container_remove Declare
+- added gtk_window_get_child Declare
