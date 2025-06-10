@@ -135,3 +135,10 @@ Version 1.8 (9 June 2025)
 - added gtk_menu_shell_append Declare
 - added gtk_container_remove Declare
 - added gtk_window_get_child Declare
+
+Version 1.9 (10 June 2025)
+- added g_main_context_default Declare
+- added g_idle_add Declare
+- added g_main_context_invoke_full Declare
+- added gtk_label_set_text Declare
+- added G_PRIORITY_DEFAULT_IDLE Constant
