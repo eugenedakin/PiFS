@@ -142,3 +142,10 @@ Version 1.9 (10 June 2025)
 - added g_main_context_invoke_full Declare
 - added gtk_label_set_text Declare
 - added G_PRIORITY_DEFAULT_IDLE Constant
+
+Version 1.10 (11 June 2025)
+- modified constant value of G_PRIORITY_DEFAULT_IDLE
+- added G_PRIORITY_HIGH Constant
+- added G_PRIORITY_DEFAULT Constant
+- added G_PRIORITY_HIGH_IDLE Constant
+- added G_PRIORITY_LOW Constant
