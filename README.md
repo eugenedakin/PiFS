@@ -149,3 +149,10 @@ Version 1.10 (11 June 2025)
 - added G_PRIORITY_DEFAULT Constant
 - added G_PRIORITY_HIGH_IDLE Constant
 - added G_PRIORITY_LOW Constant
+
+Version 1.11 (13 June 2025)
+- added gtk_init Declare
+- added gtk_window_new Declare
+- added gtk_main Declare
+- added gtk_box_new Declare
+- added gtk_container_set_border_width Declare
