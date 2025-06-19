@@ -156,3 +156,27 @@ Version 1.11 (13 June 2025)
 - added gtk_main Declare
 - added gtk_box_new Declare
 - added gtk_container_set_border_width Declare
+
+Version 1.12 (14 June 2025)
+- added gtk_button_new_with_label() Declare
+- added gtk_button_new_with_label(cLabel) Declare
+- readded g_idle_add Declare
+- Changed gtk_main from a function to a sub
+- added GTK_ORIENTATION_VERTICAL constant
+
+Version 1.13 (18 June 2025)
+- change gtk_container_add from Sub to Function 
+- added gtk_widget_set_size_request Declare
+- added gtk_fixed_new Declare
+- added gtk_fixed_put Declare
+- added gtk_widget_get_xid Declare
+- added gtk_widget_show Declare
+- changed gtk_widget_show_all from a Sub to Function 
+- added gdk_x11_window_get_xid Declare
+- changed gtk_widget_realize from a Sub to Function 
+- added xOpenDisplay Declare
+- added XFindWindow Declare
+- added gtk_container_get_children Declare
+- added gtk_window_get_title Declare
+- added GTK_ORIENTATION_HORIZONTAL Constant 
+- added g_main_context_get_default Declare
