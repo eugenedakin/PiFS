@@ -180,3 +180,12 @@ Version 1.13 (18 June 2025)
 - added gtk_window_get_title Declare
 - added GTK_ORIENTATION_HORIZONTAL Constant 
 - added g_main_context_get_default Declare
+
+Version 1.14 (19 June 2025)
+- added O_WRONLY Constant
+- added O_CREAT Constant
+- added O_TRUNC Constant
+- added S_IRUSR Constant
+- added S_IWUSR Constant
+- modified Open Declare 
+- Overload Write Declare
