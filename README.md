@@ -189,3 +189,29 @@ Version 1.14 (19 June 2025)
 - added S_IWUSR Constant
 - modified Open Declare 
 - Overload Write Declare
+
+Version 1.15 (21 June 2025)
+- added gtk_file_chooser_dialog_new Declare
+- added gtk_file_chooser_get_filename Declare
+- added GTK_FILE_CHOOSER_ACTION_SAVE Constant
+- added GTK_RESPONSE_ACCEPT Constant
+- added g_free Declare
+- added S_IXUSR Constant
+- added S_IRWXU Constant
+- added S_IRGRP Constant
+- added S_IWGRP Constant
+- added S_IXGRP Constant
+- added S_IRWXG Constant
+- added S_IROTH Constant
+- added S_IWOTH Constant
+- added S_IXOTH Constant
+- added S_IRWXO Constant
+- added O_RDONLY Constant
+- added RDWR Constant
+- added O_EXCL Constant
+- added O_NOCTTY Constant
+- added O_APPEND Constant
+- added O_NONBLOCK Constant
+- added O_SYNC Constant
+- added O_DSYNC Constant
+- added O_CLOEXEC Constant
