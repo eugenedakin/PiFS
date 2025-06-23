@@ -215,3 +215,10 @@ Version 1.15 (21 June 2025)
 - added O_SYNC Constant
 - added O_DSYNC Constant
 - added O_CLOEXEC Constant
+
+Version 1.16 (22 June 2025)
+- Overloaded Open Declare
+- Overloaded Close Declare
+- added stat structure 
+- added fstat Declare
+- added GTK_FILE_CHOOSER_ACTION_OPEN
