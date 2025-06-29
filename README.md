@@ -222,3 +222,17 @@ Version 1.16 (22 June 2025)
 - added stat structure 
 - added fstat Declare
 - added GTK_FILE_CHOOSER_ACTION_OPEN
+
+Version 1.17 (28 June 2025)
+- added ST_RDONLY Constant
+- added ST_NOSUID Constant
+- added ST_NODEV Constant
+- added ST_NOEXEC Constant
+- added ST_SYNCHRONOUS Constant
+- added ST_MANDLOCK Constant
+- added ST_WRITE Constant
+- added ST_APPEND Constant
+- added ST_IMMUTABLE Constant
+- added ST_NOATIME Constant
+- added ST_NODIRATIME Constant
+- added ST_RELATIME Constant
