@@ -236,3 +236,7 @@ Version 1.17 (28 June 2025)
 - added ST_NOATIME Constant
 - added ST_NODIRATIME Constant
 - added ST_RELATIME Constant
+
+Version 1.18 (29 June 2025)
+- added unlink Declare
+- added GTK_MESSAGE_WARNING as Number Constant
