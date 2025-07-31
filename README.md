@@ -240,3 +240,19 @@ Version 1.17 (28 June 2025)
 Version 1.18 (29 June 2025)
 - added unlink Declare
 - added GTK_MESSAGE_WARNING as Number Constant
+
+Version 1.19 (31 July 2025)
+- added gtk_x11_window_get_xid Declare
+- added gtk_widget_set_opacity Declare
+- added gdk_window_set_opacity Declare 
+- added GTK_WINDOW_TOPLEVEL constant 
+- added gtk_window_set_decorated Declare
+- added gtk_window_move Declare
+- added gtk_window_set_resizable Declare
+- added wl_display_connect Declare
+- added GTK_WINDOW_POPUP Constant
+- added gdk_wayland_window_get_wl_surface Declare
+- added gtk_window_set_type_hint Declare
+- added GDK_WINDOW_TYPE_HINT_UTILITY Constant
+- added gdk_window_move Declare
+
