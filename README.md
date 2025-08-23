@@ -256,3 +256,14 @@ Version 1.19 (31 July 2025)
 - added GDK_WINDOW_TYPE_HINT_UTILITY Constant
 - added gdk_window_move Declare
 
+Version 1.20 (23 August 2025)
+- added gst_init Declare
+- added gst_element_set_state Declare
+- added gst_object_unref Declare
+- added gst_element_factory_make Declare
+- added g_object_set Declare
+- added GST_STATE_NULL Constant
+- added GST_STATE_PAUSED Constant
+- added GST_STATE_PLAYING Constant
+- added GST_STATE_READY Constant
+- added GST_STATE_VOID_PENDING Constant
