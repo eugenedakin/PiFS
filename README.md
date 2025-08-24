@@ -267,3 +267,12 @@ Version 1.20 (23 August 2025)
 - added GST_STATE_PLAYING Constant
 - added GST_STATE_READY Constant
 - added GST_STATE_VOID_PENDING Constant
+
+Version 1.21 (24 August 2026)
+- added gst_element_query_position Declare
+- added  gst_element_query_duration Declare
+- added GST_FORMAT_TIME Constant
+- added GST_SEEK_FLAG_ACCURATE Constant
+- added GST_SEEK_FLAG_FLUSH Constant
+- added gst_element_seek Declare
+- added custom method to convert seconds to Minutes:Seconds (FormatSecondsToMinuteSeconds)
