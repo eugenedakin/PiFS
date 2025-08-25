@@ -276,3 +276,16 @@ Version 1.21 (24 August 2026)
 - added GST_SEEK_FLAG_FLUSH Constant
 - added gst_element_seek Declare
 - added custom method to convert seconds to Minutes:Seconds (FormatSecondsToMinuteSeconds)
+
+Version 1.22 (25 August 2025)
+- added GST_SEEK_TYPE_SET Constant
+- added GST_SEEK_TYPE_NONE Constant
+- added GST_SEEK_TYPE_END Constant
+- added GST_CLOCK_TIME_NONE Constant
+- added wl_display_disconnect Declare
+- added wl_display_roundtrip Declare
+- added wl_compositor_create_surface Declare
+- added wl_surface_commit Declare
+- added wl_subcompositor_get_subsurface Declare
+- added wl_display_get_registry Declare
+- added gdk_wayland_display_get_wl_display Declare
