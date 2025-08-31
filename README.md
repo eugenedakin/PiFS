@@ -289,3 +289,10 @@ Version 1.22 (25 August 2025)
 - added wl_subcompositor_get_subsurface Declare
 - added wl_display_get_registry Declare
 - added gdk_wayland_display_get_wl_display Declare
+
+Version 1.23 (30 August 2025)
+- added gdk_wayland_display_get_wl_compositor Declare
+- added gdk_wayland_display_get_wl_subcompositor Declare
+- added gdk_display_get_name Declare
+- added dlopen Declare
+- added RTLD_LAZY Constant
